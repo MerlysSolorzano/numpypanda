@@ -1,7 +1,6 @@
 # SESIÓN 10 - TEMA 4
 
-Este repositorio contiene un notebook desarrollado en *Google Colab* como parte de la *Sesión 10 del Tema 4*. En él se trabajan conceptos relacionados con [📌 aquí puedes escribir el tema específico que trata el notebook, por ejemplo: "visualización de datos", "probabilidades", "machine learning", etc.].
-
+Este repositorio contiene un notebook desarrollado en *Google Colab* como parte de la *Sesión 10 del Tema 4*. 
 ## 📄 Archivo
 
 - SESION 10  TEMA 4.ipynb: Notebook principal con explicaciones, código y ejemplos prácticos.
